@@ -7,6 +7,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AniketBembale/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AniketBembale/Leetcode-/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,9 @@ Leetcode Questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AniketBembale/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AniketBembale/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AniketBembale/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
